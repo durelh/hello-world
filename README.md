@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+
+Hello everyone,
+My name is Durel and I like burgers, pizza and french fries.
